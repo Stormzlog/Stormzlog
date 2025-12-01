@@ -1,6 +1,6 @@
-# Hi 👋, I'm Stormzlog
+Hi 👋, I'm Stormzlog
 
-### A passionate Web developer & Graphics designer.
+A passionate Web developer & Graphics designer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stormzlog&label=Profile views&color=0e75b6&style=flat" alt="Stormzlog" /> </p>
 
@@ -12,17 +12,17 @@
 
 - 🌱 I'm currently learning **Backend and data analysis.**
 
-- 💬 Ask me about **Web development, graphics design.**
+- 💬 Ask me about Web development, graphics design.
 
-- 📫 How to reach me **anumgabriel079@gmail.com**
+- 📫 How to reach me anumgabriel079@gmail.com
 
-- ⚡ Fun fact **I am eager to work and learn.**
+- ⚡ Fun fact I am eager to work and learn.
 
-- 👨‍💻 All of my projects are available at **[https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20](https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20)**
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20](https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20)
 
-- 📝 I regularly write articles on **[https://worldpulse.ng](https://worldpulse.ng)**
+- 📝 I regularly write articles on [https://worldpulse.ng](https://worldpulse.ng)
 
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20](https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20)**
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20](https://drive.google.com/drive/folders/1-tKlnXjDuv0qpEKg2yiAMIogrJoR5H20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
